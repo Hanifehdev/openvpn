@@ -1,6 +1,8 @@
 {
   "id": 1,
   "name": "Open VPN",
-  "downloadURL": "null",
-  "imageUrl": "null"
+  "downloadURL": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
+  "videoURL": "/video.mp4",
+  "imageUrl": "null",
+  "HeadingText": "نصب و فعال سازی OpenVPN"
 }
