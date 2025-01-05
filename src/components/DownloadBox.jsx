@@ -1,7 +1,7 @@
 import React from 'react';
+import Link from 'next/link';
 
 import Box from './Box';
-
 import { ArrowDownTrayIcon } from '@heroicons/react/24/solid';
 
 const DownloadBox = ({ downloadlink }) => {
@@ -10,10 +10,10 @@ const DownloadBox = ({ downloadlink }) => {
   return (
     <>
       <Box>
-        <a href={downloadlink} className="flex items-center justify-between">
+        <Link href={downloadlink} className="boxItem">
           <h3>{text}</h3>
           <ArrowDownTrayIcon className="w-6 h-6" />
-        </a>
+        </Link>
       </Box>
     </>
   );

@@ -10,3 +10,7 @@
 .bodyLayout {
   @apply bg-gray-800 text-cyan-100 font-estedad w-full min-h-screen flex flex-col justify-center items-center;
 }
+
+.boxItem {
+  @apply p-6 flex items-center justify-between;
+}
