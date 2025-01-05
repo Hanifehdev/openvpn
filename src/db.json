@@ -3,6 +3,6 @@
   "name": "Open VPN",
   "downloadURL": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
   "videoURL": "/video.mp4",
-  "imageUrl": "null",
+  "imageUrl": "/logo.png",
   "HeadingText": "نصب و فعال سازی OpenVPN"
 }
